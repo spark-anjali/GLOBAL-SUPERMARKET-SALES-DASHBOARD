@@ -16,4 +16,4 @@ hashtag#PowerBI hashtag#DataVisualization hashtag#SalesDashboard hashtag#DataAna
 
 Check it out and let me know your thoughts! 👇
 
-![Global Superstore Sales Dashboard] (https://app.powerbi.com/reportEmbed?reportId=ba917806-88ba-4fe6-aedf-625bb965b5e7&autoAuth=true&ctid=850aa78d-94e1-4bc6-9cf3-8c11b530701c))
+![Global Superstore Sales Dashboard] (https://app.powerbi.com/reportEmbed?reportId=ba917806-88ba-4fe6-aedf-625bb965b5e7&autoAuth=true&ctid=850aa78d-94e1-4bc6-9cf3-8c11b530701c)
