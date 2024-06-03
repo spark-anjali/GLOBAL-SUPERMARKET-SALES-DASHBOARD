@@ -16,4 +16,4 @@ hashtag#PowerBI hashtag#DataVisualization hashtag#SalesDashboard hashtag#DataAna
 
 Check it out and let me know your thoughts! 👇
 
-![Global Superstore Sales Dashboard](https://lnkd.in/gQE_6RTY)
+![Global Superstore Sales Dashboard] (https://lnkd.in/gQE_6RTY)
